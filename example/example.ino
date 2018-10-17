@@ -30,9 +30,6 @@ void loop() {
      delay(500);
   }
 
-  else {
-     microbit.show(smile_bmp);
-  }
 }
 
 
